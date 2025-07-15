@@ -1,3 +1,3 @@
 # learn-shell
 
-hi
+ls -al
